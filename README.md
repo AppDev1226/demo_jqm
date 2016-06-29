@@ -1,1 +1,1 @@
-# demo_jqm
+# Labs for jQuery Mobile
